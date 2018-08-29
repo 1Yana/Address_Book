@@ -1,0 +1,39 @@
+﻿#header 
+{background-image: url("x.png");
+float: center;
+background-size: 250px;
+background-position: left;
+background-repeat: no-repeat;
+margin: 10px; 
+padding: 10px; height: 150px;
+}
+
+
+body{
+font-family: 'Times New Roman', cursive;
+background-image: url("aaa.jpg"); 
+background-size: 30%; 
+background-attachment: fixed; padding: 0px; margin: 0px;
+text-align: center;
+font-size:20px;
+}
+
+
+table {
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+text-align: left;
+border-collapse: separate;
+border-spacing: 5px;
+background: #ESE9EO;
+color: #000000;
+border: 8px solid #000000;
+border-radius: 20px;
+}
+th {
+font-size: 18px;
+padding: 10px;
+}
+td {
+background: #F5D7BF;
+padding: 10px;
+}
